@@ -1,0 +1,11 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "Node Http Module",
+  "main": "server.js",
+  "scripts": {
+    "test": "git repository, keywords"
+  },
+  "author": "Sangil Jung",
+  "license": "ISC"
+}

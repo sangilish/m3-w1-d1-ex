@@ -14,3 +14,8 @@ function solveRect(l, w) {
         console.log(`The perimeter of the rectangle is ${rect.perimeter(l, w)}`);
     }
 }
+
+solveRect(6, 2);
+solveRect(8, 1);
+solveRect(0, 9); // error
+solveRect(4, -1); //error
